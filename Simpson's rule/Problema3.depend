@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606712219 source:c:\users\delga\desktop\problema3\main.cpp
+	<iostream>
+	<iomanip>
+	<math.h>
+
